@@ -1,0 +1,221 @@
+
+                        **********HOTEL MANAGEMENT SYSTEM*************
+
+                                 Quantity of items we have
+
+    Rooms available : 10
+    Quantity of pasta : 10
+    Quantity of chicken : 10
+    Quantity of burger : 10
+    Quantity of shake : 10
+    Quantity of noodles : 10
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 1
+
+
+ Enter the number of Rooms you want : 6
+
+
+                6 Room/Rooms have been alloted to you!
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 2
+
+
+ Enter Pasta Quantity : 4
+
+
+                4 Pasta is your order!
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 3
+
+
+ Enter Chicken Quantity : 8
+
+
+                8 Chicken is your order!
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 4
+
+
+ Enter Burger Quantity : 6
+
+
+                6 Burger is your order!
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 5
+
+
+ Enter Shake Quantity : 2
+
+
+                2 Shake is your order!
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 6
+
+
+ Enter Noodles Quantity : 8
+
+
+                8 noodle is your order!
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 1
+
+
+ Enter the number of Rooms you want : 7
+
+        Only 4 Rooms are remaining in the hotel
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! 7
+
+                        Details of Sales and Collection
+
+    Number of rooms we had : 10
+
+    Number of rooms Booked : 6
+
+    Remaining Rooms : 4
+
+    Total rooms collection for the day : 7200
+
+    Number of Pastas we had : 10
+
+    Number of Pastas we sold : 4
+
+    Remaining Pastas : 6
+
+    Total Pastas collection for the day : 1000
+
+    Number of Chickens we had : 10
+
+    Number of Chickens we sold : 8
+
+    Remaining Chickens : 2
+
+    Total Chickens collection for the day : 4000
+
+    Number of Burgers we had : 10
+
+    Number of Burgers we sold : 6
+
+    Remaining Burgers : 4
+
+    Total Burgers collection for the day : 600
+
+    Number of Shakes we had : 10
+
+    Number of Shakes we sold : 2
+
+    Remaining Shakes : 8
+
+    Total Shakes collection for the day : 240
+
+    Number of Noodles we had : 10
+
+    Number of Noodles we sold : 8
+
+    Remaining Noodles : 2
+
+    Total Noodles collection for the day : 1440
+
+                            Please select from the menu options
+
+    1) Rooms
+    2) Pasta
+    3) Chicken
+    4) Burger
+    5) Shake
+    6) noodles
+    7) Information Regarding sales and collection
+    8) Exit
+
+    Please Enter your choice! Please Enter your choice! 8
+
+Process returned 0 (0x0)   execution time : 55.293 s
+Press any key to continue.
